@@ -6,7 +6,8 @@
 
 ### Candidate & Assessment Details
 * **Candidate Name:** Ansh Agarwal
-* **University:** Dr. APJ Abdul Kalam Technical University, Lucknow
+* **University:** Meerut Institute of Technology, Meerut
+* **Contact:** 9258687121
 * **Degree / Program:** B.Tech in Computer Science and Engineering (Data Science)
 * **Assessment Role:** Data Analyst Assessment Test
 * **Company:** VirtuBox Infotech Private Limited
