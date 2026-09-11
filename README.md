@@ -7,6 +7,8 @@
 ### Candidate & Assessment Details
 * **Candidate Name:** Ansh Agarwal
 * **University:** Meerut Institute of Technology, Meerut
+* **College Email:** ansh.agarwal.ds.2023@mitmeerut.ac.in
+* **Personal Email:** agarwalansh005@gmail.com
 * **Contact:** 9258687121
 * **Degree / Program:** B.Tech in Computer Science and Engineering (Data Science)
 * **Assessment Role:** Data Analyst Assessment Test
